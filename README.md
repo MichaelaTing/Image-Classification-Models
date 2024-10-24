@@ -1,7 +1,9 @@
-# Models
+# Introduction
 
-Some famous image classification models, including alexnet, lenet, vggnet, resnet, densenet, swin transformer, ViT, etc.
+>  Models
 
-# Tools
+The `models` folder contains implementations of the following computer vision models, including alexnet, lenet, vggnet, resnet, densenet, swin transformer, ViT, etc.
 
-Some frequently used tools in experiments, including featuremap, model pruning and multi-GPU training.
+>  Tools
+
+The `tools` folder contains the following useful tools for experimentation, including featuremap, model pruning and multi-GPU training.
